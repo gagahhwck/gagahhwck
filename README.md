@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @gagahhwck
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in frontend developer and mobile dev
+- 🌱 I’m currently learning mobile developing such as flutter to use in Ios or android
+- 💞️ I’m looking to collaborate on company who has an good struktural team
+- 📫 How to reach me you can call me at Whatsapp number : 
+                                               - 0813-1583-7004
 
 <!---
 gagahhwck/gagahhwck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
