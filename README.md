@@ -10,7 +10,7 @@ I specialize in building scalable systems and internal enterprise applications, 
 ## 💻 Tech Stack
 
 - **Backend:** Laravel, PHP, Microservices Architecture  
-- **Frontend:** JavaScript  
+- **Frontend:** JavaScript, NextJS, typescript
 - **Other Languages:** C#, C++  
 - **Database:** MySQL, SQL Server  
 - **Tools & Environment:** GitLab (Self-hosted), REST API, Payment Gateway Integration  
